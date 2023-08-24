@@ -21,4 +21,4 @@ The best paper award would not have been possible without the support and guidan
 </div>
 
 # 💻 Internships
-- *2021.12 - 2022.06*, in Huawei Technology Co., Ltd., Chengdu.
+- *2021.12 - 2022.06*, in Huawei Technology Co., Ltd., Chengdu, Supervisor: [Prof. Kun Zeng](https://ieeexplore.ieee.org/author/37085849545).
