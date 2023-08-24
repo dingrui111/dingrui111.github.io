@@ -12,5 +12,6 @@
 
 </div>
 </div>
+
 # 💻 Internships
 - *2021.12 - 2022.06*, in Huawei Technology Co., Ltd., Chengdu.
