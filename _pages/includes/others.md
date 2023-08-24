@@ -5,7 +5,9 @@
 - *2016.09 - 2020.06*, B. S. in Nanjing University of Information Science and Technology.
 
 # 💬 Presentations and Invited Talks
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IOT</div><img src='images/iot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IOT</div><img src='images/poster.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IOT</div><img src='images/award.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 *2023.08*, IEEE ICCC/CIC 2023, Poster Presentation, Dalian, China  \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
 </div>
