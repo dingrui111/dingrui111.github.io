@@ -67,7 +67,6 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 ## 👄 Spectrum Decision
 - `ICCC 2023`  <span style="color:red">(best paper award)</span> [Novel Online-Offline MA2C-DDPG for Efficient Spectrum Allocation and Trajectory Optimization in Dynamic Spectrum Sharing UAV Networks](https://openreview.net/forum?id=YfwMIDhPccD), **Rui Ding**, Fuhui Zhou, Yuben Qu, Chao Dong, Qihui Wu, and Tony Q. S. Quek
 - ``Globecom 2023`` [A Partially Observable Deep Multi-Agent Active Inference Framework for Resource Allocation in 6G and Beyond Wireless Communications Networks](https://arxiv.org/abs/2107.06831), Fuhui Zhou, Rui Ding, Qihui Wu, Derrick Wing Kwan Ng, Kai-Kit Wong, and Naofal Al-Dhahir 
-- ``AAAI 2022`` [Flow-based Unconstrained Lip to Speech Generation](https://ojs.aaai.org/index.php/AAAI/article/view/19966), Jinzheng He, Zhou Zhao, **Yi Ren**, Jinglin Liu, Baoxing Huai, Nicholas Yuan
 - ``Ucom 2023`` <span style="color:red">(excellent graduate student award)</span> [An Intelligent RFFI Scheme Based on Multi-Scale Learning and Attention Mechanism](https://dl.acm.org/doi/10.1145/3394171.3413740), Ming Xu, **Rui Ding**, Lu Yuan, and Fuhui Zhou
 
 ## 📚 Machine Translation 
