@@ -7,7 +7,10 @@
 # 💬 Presentations and Invited Talks
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICCC Poster</div><img src='images/iccc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-*2023.08*, IEEE ICCC/CIC 2023, Poster Presentation, Dalian, China  \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
+*2023.08*, IEEE ICCC/CIC 2023, Poster Presentation, Dalian, China  \| [\[Video\]]()
+  
+With full humility and utmost gratitude.
+The best paper award would not have been possible without the support and guidance of my mentor, Prof. Fuhui Zhou, the dedication of the team, and the unwavering encouragement from my loved ones.
 </div>
 </div>
 
