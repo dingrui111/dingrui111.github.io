@@ -4,6 +4,11 @@
 - *2020.09 - 2023.04*, M. S. in Nanjing University of Aeronautics and Astronautics, Supervisor: Prof. Fuhui Zhou and Prof. Qihui Wu.
 - *2016.09 - 2020.06*, B. S. in Nanjing University of Information Science and Technology.
 
+
+# 💻 Internships
+- *2021.12 - 2022.06*, in Huawei Technology Co., Ltd., Chengdu, Supervisor: [Prof. Kun Zeng](https://ieeexplore.ieee.org/author/37085849545).
+
+
 # 💬 Presentations and Invited Talks
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICCC Poster</div><img src='images/iccc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -20,5 +25,3 @@ The best paper award would not have been possible without the support and guidan
 </div>
 </div>
 
-# 💻 Internships
-- *2021.12 - 2022.06*, in Huawei Technology Co., Ltd., Chengdu, Supervisor: [Prof. Kun Zeng](https://ieeexplore.ieee.org/author/37085849545).
