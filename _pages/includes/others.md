@@ -11,7 +11,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICC</div><img src='images/iot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICC</div><img src='images/icc_pre.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 *2022.05*, IEEE ICC 2023, Online Presentation, Seoul, South Korea
 </div>
