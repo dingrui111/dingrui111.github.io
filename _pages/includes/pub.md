@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-## 🧐🔍 Spectrum Cognition
+## 🧐🔍 Featured Papers
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IOT</div><img src='images/iot.png' alt="sym" width="100%"></div></div>
@@ -57,9 +57,13 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 </div>
 </div>
 
+## 🧐🔍 Spectrum Cognition
 - ``IEEE TWC`` <span style="color:red">(IF: 10.237, Q1)</span> [Data and Knowledge Dual-Driven Automatic Modulation Classification for 6G Wireless Communications](), **Rui Ding**, Fuhui Zhou, Qihui Wu, Chao Dong, Zhu Han, and Octavia A. Dobre (under review)
 - ``IEEE TKDE`` <span style="color:red">(CCF A)</span> [Social-Enhanced Explainable Recommendation With Knowledge Graph](), Zhenhui Ye, Rongjie Huang, Yi Ren, Ziyue Jiang, Jinglin Liu, Jinzheng He, Xiang Yin and Zhou Zhao
 - ``IEEE TKDE``  <span style="color:red">(CCF A)</span> [Temporal Enhanced Multi-modal Graph Neural Networks for Fake News Detection](), Zhibo Qu, Fuhui Zhou, Xi Song, **Rui Ding**, Lu Yuan, and Qihui Wu (submitted)
+- ``IEEE IOT`` <span style="color:red">(IF: 11.237, Q1)</span> [RFML-Driven Spectrum Prediction: A Novel Model-Enabled Autoregressive Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9828536), **Rui Ding**, Ming Xu, Fuhui Zhou, Qihui Wu, and Rose Qingyang Hu
+- ``IEEE ICC`` [Data-and-Knowledge Dual-Driven Automatic Modulation Recognition for Wireless Communication Networks](
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9838977), **Rui Ding**, Hao Zhang, Fuhui Zhou, Qihui Wu, and Zhu Han
 - ``J DATA ACQUIS PROCESS`` <span style="color:red">(cover paper)</span> [Survey on Theory and Applications on Radio Frequency Machine Learning for Electromagentic Spectrum Space](), Fuhui Zhou, Zitong Zhang, **Rui Ding**, Ming Xu, Lu Yuan, and Qihui Wu
 
 
