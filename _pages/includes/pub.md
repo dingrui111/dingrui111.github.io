@@ -3,7 +3,7 @@
 ## 🎙 Spectrum Cognition
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/iot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IOT</div><img src='images/iot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RFML-Driven Spectrum Prediction: A Novel Model-Enabled Autoregressive Network](
@@ -20,7 +20,7 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9828536
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/icc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICC 2023</div><img src='images/icc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Data-and-Knowledge Dual-Driven Automatic Modulation Recognition for Wireless Communication Networks](
