@@ -76,7 +76,7 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9838977), **Rui Ding**,
 
 ## ✍️Working Papers
 
-## 👍 Patents
+## 👨‍💻 Patents
 - `United States Patent`  Intelligent Data and Knowledge Driven Method For Modulation Recognition，Fuhui Zhou, **Rui Ding**, Ming Xu, Hao Zhang, Lu Yuan, Qihui Wu, Chao Dong, patent no.: 11700156.
 - `Chinese National Invention Patent` 《一种基于射频机器学习模型驱动的频谱预测方法》，周福辉，**丁锐**，徐铭，袁璐，吴雨航，吴启晖，董超，黄洋，已授权，专利号：ZL202111169587.5，授权号：CN113840297B，申请号：CN202111169587.5
 - `Chinese National Invention Patent` 《一种数据知识双驱动的调制智能识别系统与方法》，周福辉，**丁锐**，徐铭，张浩，袁璐，吴启晖，董超，已授权，专利号：ZL202210123132.8，授权号：CN114157539B，申请号：CN202210123132.8
