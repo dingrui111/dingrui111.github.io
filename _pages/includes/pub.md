@@ -41,13 +41,13 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9838977
 - ``IEEE IOT`` <span style="color:red">(IF: 11.237, Q1)</span> [RFML-Driven Spectrum Prediction: A Novel Model-Enabled Autoregressive Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9828536), **Rui Ding**, Ming Xu, Fuhui Zhou, Qihui Wu, and Rose Qingyang Hu
 - ``IEEE ICC`` [Data-and-Knowledge Dual-Driven Automatic Modulation Recognition for Wireless Communication Networks](
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9838977), **Rui Ding**, Hao Zhang, Fuhui Zhou, Qihui Wu, and Zhu Han
-- ``J DATA ACQUIS PROCESS`` <span style="color:red">(cover paper)</span> [Survey on Theory and Applications on Radio Frequency Machine Learning for Electromagentic Spectrum Space](), Fuhui Zhou, Zitong Zhang, **Rui Ding**, Ming Xu, Lu Yuan, and Qihui Wu
+- ``J DATA ACQUIS PROCESS`` <span style="color:red">(cover paper)</span> [Survey on Theory and Applications on Radio Frequency Machine Learning for Electromagentic Spectrum Space](http://kns.cnki.net/kcms/detail/detail.aspx?doi=10.16337/j.1004-9037.2022.06.001), Fuhui Zhou, Zitong Zhang, **Rui Ding**, Ming Xu, Lu Yuan, and Qihui Wu
 
 
 ## 🛰️📊 Spectrum Decision
-- `ICCC 2023`  <span style="color:red">(best paper award)</span> [Novel Online-Offline MA2C-DDPG for Efficient Spectrum Allocation and Trajectory Optimization in Dynamic Spectrum Sharing UAV Networks](https://openreview.net/forum?id=YfwMIDhPccD), **Rui Ding**, Fuhui Zhou, Yuben Qu, Chao Dong, Qihui Wu, and Tony Q. S. Quek
-- ``Globecom 2023`` [A Partially Observable Deep Multi-Agent Active Inference Framework for Resource Allocation in 6G and Beyond Wireless Communications Networks](https://arxiv.org/abs/2107.06831), Fuhui Zhou, Rui Ding, Qihui Wu, Derrick Wing Kwan Ng, Kai-Kit Wong, and Naofal Al-Dhahir 
-- ``Ucom 2023`` <span style="color:red">(excellent graduate student award)</span> [An Intelligent RFFI Scheme Based on Multi-Scale Learning and Attention Mechanism](https://dl.acm.org/doi/10.1145/3394171.3413740), Ming Xu, **Rui Ding**, Lu Yuan, and Fuhui Zhou
+- `ICCC 2023`  <span style="color:red">(best paper award)</span> [Novel Online-Offline MA2C-DDPG for Efficient Spectrum Allocation and Trajectory Optimization in Dynamic Spectrum Sharing UAV Networks](https://arxiv.org/pdf/2308.02332.pdf), **Rui Ding**, Fuhui Zhou, Yuben Qu, Chao Dong, Qihui Wu, and Tony Q. S. Quek
+- ``Globecom 2023`` [A Partially Observable Deep Multi-Agent Active Inference Framework for Resource Allocation in 6G and Beyond Wireless Communications Networks](), Fuhui Zhou, Rui Ding, Qihui Wu, Derrick Wing Kwan Ng, Kai-Kit Wong, and Naofal Al-Dhahir 
+- ``Ucom 2023`` <span style="color:red">(excellent graduate student award)</span> [An Intelligent RFFI Scheme Based on Multi-Scale Learning and Attention Mechanism](), Ming Xu, **Rui Ding**, Lu Yuan, and Fuhui Zhou
 
 
 
