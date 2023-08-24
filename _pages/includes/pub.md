@@ -63,18 +63,12 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 - ``J DATA ACQUIS PROCESS`` <span style="color:red">(cover paper)</span> [Survey on Theory and Applications on Radio Frequency Machine Learning for Electromagentic Spectrum Space](), Fuhui Zhou, Zitong Zhang, **Rui Ding**, Ming Xu, Lu Yuan, and Qihui Wu
 
 
-## 📚 Spectrum Decision
+## 🛰️📊 Spectrum Decision
 - `ICCC 2023`  <span style="color:red">(best paper award)</span> [Novel Online-Offline MA2C-DDPG for Efficient Spectrum Allocation and Trajectory Optimization in Dynamic Spectrum Sharing UAV Networks](https://openreview.net/forum?id=YfwMIDhPccD), **Rui Ding**, Fuhui Zhou, Yuben Qu, Chao Dong, Qihui Wu, and Tony Q. S. Quek
 - ``Globecom 2023`` [A Partially Observable Deep Multi-Agent Active Inference Framework for Resource Allocation in 6G and Beyond Wireless Communications Networks](https://arxiv.org/abs/2107.06831), Fuhui Zhou, Rui Ding, Qihui Wu, Derrick Wing Kwan Ng, Kai-Kit Wong, and Naofal Al-Dhahir 
 - ``Ucom 2023`` <span style="color:red">(excellent graduate student award)</span> [An Intelligent RFFI Scheme Based on Multi-Scale Learning and Attention Mechanism](https://dl.acm.org/doi/10.1145/3394171.3413740), Ming Xu, **Rui Ding**, Lu Yuan, and Fuhui Zhou
 
 
-## 🎼 Music Generation 
-- ``AAAI 2021`` [SongMASS: Automatic Song Writing with Pre-training and Alignment Constraint](https://arxiv.org/abs/2012.05168), Zhonghao Sheng, Kaitao Song, Xu Tan, **Yi Ren**, Wei Ye, Shikun Zhang, Tao Qin
-- ``ACM-MM 2020`` <span style="color:red">(Oral)</span> [PopMAG: Pop Music Accompaniment Generation](https://dl.acm.org/doi/10.1145/3394171.3413721), **Yi Ren**, Jinzheng He, Xu Tan, Tao Qin, Zhou Zhao, Tie-Yan Liu \| [**Project**](https://speechresearch.github.io/popmag/)
 
-## 🧑‍🎨 Generative Model
-- ``ICLR 2022`` [Pseudo Numerical Methods for Diffusion Models on Manifolds](https://openreview.net/forum?id=PlKWVd2yBkY), Luping Liu, **Yi Ren**, Zhijie Lin, Zhou Zhao \| [![](https://img.shields.io/github/stars/luping-liu/PNDM?style=social&label=Code+Stars)](https://github.com/luping-liu/PNDM) \| [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pseudo-numerical-methods-for-diffusion-models-1/image-generation-on-celeba-64x64)](https://paperswithcode.com/sota/image-generation-on-celeba-64x64?p=pseudo-numerical-methods-for-diffusion-models-1)
-
-## Others
-- ``ACM-MM 2022`` [Video-Guided Curriculum Learning for Spoken Video Grounding](), Yan Xia, Zhou Zhao, Shangwei Ye, Yang Zhao, Haoyuan Li, **Yi Ren**
+## Working Papers
+- 
