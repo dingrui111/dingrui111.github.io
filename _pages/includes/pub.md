@@ -13,6 +13,7 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9828536
 
 - A novel data and model knowledge dual-driven spectrum prediction scheme is proposed.
 - The prediction accuracy in the low SNRs is improved significantly.
+- The complexity of the neural network architecture is reduced compared with conventional methods.
 - We open a new avenue for realizing the explainable intelligent spectrum prediction. 
 </div>
 </div>
@@ -26,8 +27,8 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9838977
 ) \\
 **Rui Ding**, Hao Zhang, Fuhui Zhou, Qihui Wu, and Zhu Han.
 
-[**Project**](https://speechresearch.github.io/fastspeech2/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
-  - This work is included by many famous speech synthesis open-source projects, such as [PaddlePaddle/Parakeet ![](https://img.shields.io/github/stars/PaddlePaddle/PaddleSpeech?style=social)](https://github.com/PaddlePaddle/PaddleSpeech), [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet) and [fairseq ![](https://img.shields.io/github/stars/pytorch/fairseq?style=social)](https://github.com/pytorch/fairseq).
+
+  - This work is cited by many influential academic papers, such as [TVT](https://ieeexplore.ieee.org/abstract/document/10102600)(Q1, IF:6.239), [TCOM](https://ieeexplore.ieee.org/abstract/document/10103465)(Q1, IF:6.166).
 </div>
 </div>
 
