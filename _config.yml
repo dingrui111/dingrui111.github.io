@@ -23,8 +23,8 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Rui Ding (丁锐)"
   avatar           : "images/personal_page2.png"
-  bio              : "NUAA, rui_ding@nuaa.edu.cn"
-  location         : "China"
+  bio              : "NUAA rui_ding@nuaa.edu.cn"
+  location         : "China, Jiangsu"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?pli=1&authuser=1&user=bgr_bJkAAAAJ"
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
+  linkedin         : #"rayeren"
   dblp             : #"https://dblp.org/pid/75/6568-6.html"
   orcid            : #"https://orcid.org/0000-0002-9160-3848"
   pinterest        :
