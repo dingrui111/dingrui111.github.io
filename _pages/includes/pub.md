@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-## :eyes::mag: Spectrum Cognition
+## 🧐🔍 Spectrum Cognition
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IOT</div><img src='images/iot.png' alt="sym" width="100%"></div></div>
