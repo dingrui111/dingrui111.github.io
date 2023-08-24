@@ -85,11 +85,11 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 - ``INTERSPEECH 2020`` [MultiSpeech: Multi-Speaker Text to Speech with Transformer](https://www.isca-speech.org/archive/Interspeech_2020/pdfs/3139.pdf), Mingjian Chen, Xu Tan, **Yi Ren**, Jin Xu, Hao Sun, Sheng Zhao, Tao Qin \| [**Project**](https://speechresearch.github.io/multispeech/)
 - ``ICML 2019`` <span style="color:red">(Oral)</span> [Almost Unsupervised Text to Speech and Automatic Speech Recognition](https://pdfs.semanticscholar.org/9075/a3e6271e5ef4953491488d1776527e632408.pdf), **Yi Ren**, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu  \| [**Project**](https://speechresearch.github.io/unsuper/) 
 
-## 👄 Talkingface Generation
-- `ICLR 2023` [GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis](https://openreview.net/forum?id=YfwMIDhPccD), Zhenhui Ye, Ziyue Jiang, **Yi Ren**, Jinglin Liu, Jinzheng He, Zhou Zhao
-- ``AAAI 2022`` [Parallel and High-Fidelity Text-to-Lip Generation](https://arxiv.org/abs/2107.06831), Jinglin Liu, Zhiying Zhu, **Yi Ren**, Wencan Huang, Baoxing Huai, Nicholas Yuan, Zhou Zhao \| [![](https://img.shields.io/github/stars/Dianezzy/ParaLip?style=social&label=ParaLip Stars)](https://github.com/Dianezzy/ParaLip)
+## 👄 Spectrum Decision
+- `ICCC 2023`  <span style="color:red">(best paper award)</span> [Novel Online-Offline MA2C-DDPG for Efficient Spectrum Allocation and Trajectory Optimization in Dynamic Spectrum Sharing UAV Networks](https://openreview.net/forum?id=YfwMIDhPccD), **Rui Ding**, Fuhui Zhou, Yuben Qu, Chao Dong, Qihui Wu, and Tony Q. S. Quek
+- ``Globecom 2023`` [A Partially Observable Deep Multi-Agent Active Inference Framework for Resource Allocation in 6G and Beyond Wireless Communications Networks](https://arxiv.org/abs/2107.06831), Fuhui Zhou, Rui Ding, Qihui Wu, Derrick Wing Kwan Ng, Kai-Kit Wong, and Naofal Al-Dhahir 
 - ``AAAI 2022`` [Flow-based Unconstrained Lip to Speech Generation](https://ojs.aaai.org/index.php/AAAI/article/view/19966), Jinzheng He, Zhou Zhao, **Yi Ren**, Jinglin Liu, Baoxing Huai, Nicholas Yuan
-- ``ACM-MM 2020`` [FastLR: Non-Autoregressive Lipreading Model with Integrate-and-Fire](https://dl.acm.org/doi/10.1145/3394171.3413740), Jinglin Liu, **Yi Ren**, Zhou Zhao, Chen Zhang, Baoxing Huai, Jing Yuan
+- ``Ucom 2023`` <span style="color:red">(excellent graduate student award)</span> [An Intelligent RFFI Scheme Based on Multi-Scale Learning and Attention Mechanism](https://dl.acm.org/doi/10.1145/3394171.3413740), Ming Xu, **Rui Ding**, Lu Yuan, and Fuhui Zhou
 
 ## 📚 Machine Translation 
 - ``ACL 2023`` [AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation](), Rongjie Huang, Huadai Liu, Xize Cheng, **Yi Ren**, Linjun Li, Zhenhui Ye, Jinzheng He, Lichao Zhang, Jinglin Liu, Xiang Yin and Zhou Zhao
