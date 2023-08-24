@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Rui Ding (丁锐)"
 description              : "School of Electronic Information Engineering, Nanjing University of Aeronautics and Astronautics, Focusing on intelligent resource allocation, spectrum management."
-repository               : "rayeren/rayeren.github.io"
+repository               : "dingrui35/dingrui35.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,13 +23,13 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Rui Ding (丁锐)"
   avatar           : "images/personal_page2.png"
-  bio              : "NUAA  rui_ding@nuaa.edu.cn"
+  bio              : "NUAA,  rui_ding@nuaa.edu.cn"
   location         : "China, Jiangsu"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?pli=1&authuser=1&user=bgr_bJkAAAAJ"
   email            : "rui_ding@nuaa.edu.cn"
-  wechat           : "ai15252634106"
+  wechat           : #"ai15252634106"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
