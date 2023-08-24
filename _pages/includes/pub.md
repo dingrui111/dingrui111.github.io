@@ -28,7 +28,7 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9838977
 **Rui Ding**, Hao Zhang, Fuhui Zhou, Qihui Wu, and Zhu Han.
 
 
-  - This work is cited by many influential academic papers, such as [TVT](https://ieeexplore.ieee.org/abstract/document/10102600)(Q1, IF:6.239), [TCOM](https://ieeexplore.ieee.org/abstract/document/10103465)(Q1, IF:6.166).
+  - This work is cited by many influential academic papers, such as [TVT](https://ieeexplore.ieee.org/abstract/document/10102600)<span style="color:red">((Q1, IF:6.239))</span> and [TCOM](https://ieeexplore.ieee.org/abstract/document/10103465)<span style="color:red">((Q1, IF:6.166))</span>.
 </div>
 </div>
 
