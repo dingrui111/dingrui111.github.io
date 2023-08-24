@@ -36,7 +36,7 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9838977
 
 ## 🧐🔍 Spectrum Cognition
 - ``IEEE TWC`` <span style="color:red">(IF: 10.237, Q1)</span> [Data and Knowledge Dual-Driven Automatic Modulation Classification for 6G Wireless Communications](), **Rui Ding**, Fuhui Zhou, Qihui Wu, Chao Dong, Zhu Han, and Octavia A. Dobre (under review)
-- ``IEEE TKDE`` <span style="color:red">(CCF A)</span> [Social-Enhanced Explainable Recommendation With Knowledge Graph](), Zhenhui Ye, Rongjie Huang, Yi Ren, Ziyue Jiang, Jinglin Liu, Jinzheng He, Xiang Yin and Zhou Zhao
+- ``IEEE TKDE`` <span style="color:red">(CCF A)</span> [Social-Enhanced Explainable Recommendation With Knowledge Graph](https://ieeexplore.ieee.org/document/10173618), Chunyu Liu, Wei Wu, Siyu Wu, Lu Yuan, Rui Ding, Fuhui Zhou, and Qihui Wu
 - ``IEEE TKDE``  <span style="color:red">(CCF A)</span> [Temporal Enhanced Multi-modal Graph Neural Networks for Fake News Detection](), Zhibo Qu, Fuhui Zhou, Xi Song, **Rui Ding**, Lu Yuan, and Qihui Wu (submitted)
 - ``IEEE IOT`` <span style="color:red">(IF: 11.237, Q1)</span> [RFML-Driven Spectrum Prediction: A Novel Model-Enabled Autoregressive Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9828536), **Rui Ding**, Ming Xu, Fuhui Zhou, Qihui Wu, and Rose Qingyang Hu
 - ``IEEE ICC`` [Data-and-Knowledge Dual-Driven Automatic Modulation Recognition for Wireless Communication Networks](
