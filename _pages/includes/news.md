@@ -1,4 +1,6 @@
 # 🔥 News
+- *2023.11*: 🎉 Congratulations on winning the Best Poster Award in CIE Excellent Doctoral Form 2023!
+- *2023.11*: 🎉 Congratulations on winning the Best Paper Award in IEEE Globecom 2023!
 - *2023.09*: 🎉 Congratulations on having our paper accepted for IEEE TWC!
 - *2023.08*: 🎉 Congratulations on winning the Best Paper Award in IEEE/CIC ICCC 2023!
 - *2023.08*: 🎉 Congratulations on having our paper accepted for IEEE GLOBECOM 2023! 
