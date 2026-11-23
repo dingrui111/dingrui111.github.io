@@ -1,0 +1,830 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rui Ding (丁锐) — AI for Wireless Networks</title>
+<meta name="description" content="Rui Ding (丁锐), Ph.D., Nanjing University of Aeronautics and Astronautics. Research on AI for wireless networking: learning-based resource allocation, UAV communications, spectrum sharing and interference management, agentic AI.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Rui Ding (丁锐) — AI for Wireless Networks">
+<meta property="og:description" content="Ph.D., Nanjing University of Aeronautics and Astronautics. Learning-based resource allocation, UAV communications, spectrum sharing, agentic AI.">
+<meta property="og:image" content="assets/portrait.jpg">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%230F4A57'/><text x='16' y='23' font-family='Georgia,serif' font-size='19' fill='%23FBFAF7' text-anchor='middle'>R</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,300..600;1,6..72,300..500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+
+<a class="skip" href="#main">Skip to content</a>
+
+<nav class="nav" id="nav">
+  <div class="nav-inner">
+    <a class="nav-mark" href="#top">Rui&nbsp;Ding</a>
+    <div class="nav-links">
+      <a href="#about">About</a>
+      <a href="#news">News</a>
+      <a href="#publications">Publications</a>
+      <a href="#projects">Projects</a>
+      <a href="#awards">Awards</a>
+      <a class="nav-cv" href="assets/Rui_CV.pdf" target="_blank" rel="noopener">CV ↗</a>
+    </div>
+  </div>
+</nav>
+
+<header class="hero" id="top">
+  <div class="hero-inner">
+    <div class="hero-text">
+      <p class="eyebrow"><span class="eyebrow-dot"></span>Ph.D. · Nanjing, China</p>
+      <h1 class="hero-name">Rui Ding<span class="hero-name-cn">丁锐</span></h1>
+      <p class="hero-role">AI for wireless networks</p>
+      <p class="hero-affil">
+        College of Electronic and Information Engineering<br>
+        Nanjing University of Aeronautics and Astronautics
+      </p>
+      <p class="hero-lead">
+        I design learning-based decision engines for spectrum sharing and low-altitude
+        UAV networks — from deep reinforcement learning to agentic closed-loop optimization.
+      </p>
+      <div class="hero-links">
+        <a class="btn btn-solid" href="mailto:rui.ding@nuaa.edu.cn">Email me</a>
+        <a class="btn" href="https://scholar.google.com/citations?user=bgr_bJkAAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar ↗</a>
+        <a class="btn" href="assets/Rui_CV.pdf" target="_blank" rel="noopener">CV ↓</a>
+      </div>
+      <ul class="hero-facts">
+        <li><strong>20+</strong><span>published papers</span></li>
+        <li><strong>3</strong><span>best paper awards</span></li>
+        <li><strong>8</strong><span>patents</span></li>
+        <li><strong>5</strong><span>PI projects</span></li>
+      </ul>
+    </div>
+    <figure class="hero-portrait">
+      <div class="portrait-frame">
+        <img src="assets/portrait.jpg" alt="Portrait of Rui Ding" width="660" height="825">
+      </div>
+      <figcaption>University of Padova · 2025–2026 visiting Ph.D.</figcaption>
+    </figure>
+  </div>
+  <div class="spectrum" aria-hidden="true" id="spectrum"></div>
+</header>
+
+<main id="main">
+
+  <!-- ABOUT -->
+  <section class="section" id="about">
+    <div class="wrap">
+      <div class="sec-head">
+        <span class="sec-num">01</span>
+        <h2>About</h2>
+      </div>
+
+      <div class="about-grid">
+        <div class="prose">
+          <p class="lead">
+            Hi! I am Rui Ding. I recently completed my Ph.D. at the College of Electronic and
+            Information Engineering, Nanjing University of Aeronautics and Astronautics (NUAA),
+            advised by Prof. Fuhui Zhou. From February 2025 to February 2026 I was a visiting
+            Ph.D. student at the University of Padova with Prof. Michele Zorzi.
+          </p>
+          <p>
+            My work sits where machine learning meets radio resource management. Low-altitude
+            networks are crowded, contested and partially observable: UAVs must share licensed and
+            unlicensed spectrum while jammers, uncertain demand and fast topology changes make
+            classical optimization brittle. I build methods that close that gap — deep
+            reinforcement learning with optimization structure baked in, generative models that
+            predict what the spectrum will do next, and agentic loops that reason about their own
+            decisions instead of reacting to them.
+          </p>
+          <p>
+            I have published more than 20 papers in IEEE TWC, TMC, TCOM, JSTSP, IoT-J and
+            IEEE Network, and in the flagship IEEE conferences (ICC, GLOBECOM, ICCC, WCSP), with
+            three Best Paper Awards. I also hold eight granted patents and have led five funded
+            projects as principal investigator.
+          </p>
+          <p class="about-links">
+            <a class="text-link" href="assets/Rui_CV.pdf" target="_blank" rel="noopener">Full CV (PDF)</a>
+            <span class="sep">/</span>
+            <a class="text-link" href="https://scholar.google.com/citations?user=bgr_bJkAAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar</a>
+            <span class="sep">/</span>
+            <a class="text-link" href="mailto:rui.ding@nuaa.edu.cn">rui.ding@nuaa.edu.cn</a>
+          </p>
+        </div>
+
+        <aside class="interests">
+          <h3 class="mini-head">Research interests</h3>
+          <ol class="interest-list">
+            <li><span>01</span>Learning-based resource allocation</li>
+            <li><span>02</span>UAV communications</li>
+            <li><span>03</span>Low-altitude intelligent IoT</li>
+            <li><span>04</span>Spectrum sharing &amp; interference management</li>
+            <li><span>05</span>Agentic AI</li>
+          </ol>
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <!-- EDUCATION -->
+  <section class="section section-tint" id="education">
+    <div class="wrap">
+      <div class="sec-head">
+        <span class="sec-num">02</span>
+        <h2>Education &amp; Experience</h2>
+      </div>
+      <ol class="timeline">
+        <li>
+          <span class="tl-date">2023.03 — 2026.10</span>
+          <div class="tl-body">
+            <h3>Ph.D., Information and Communication Engineering</h3>
+            <p>Nanjing University of Aeronautics and Astronautics · Advisor: Prof. Fuhui Zhou</p>
+          </div>
+        </li>
+        <li>
+          <span class="tl-date">2025.02 — 2026.02</span>
+          <div class="tl-body">
+            <h3>Visiting Ph.D.</h3>
+            <p>University of Padova, Italy · Advisor: Prof. Michele Zorzi</p>
+          </div>
+        </li>
+        <li>
+          <span class="tl-date">2020.09 — 2023.03</span>
+          <div class="tl-body">
+            <h3>M.Eng.</h3>
+            <p>Nanjing University of Aeronautics and Astronautics · Advisor: Prof. Fuhui Zhou</p>
+          </div>
+        </li>
+        <li>
+          <span class="tl-date">2021.12 — 2022.06</span>
+          <div class="tl-body">
+            <h3>Intern</h3>
+            <p>Huawei Technologies Co., Ltd.</p>
+          </div>
+        </li>
+        <li>
+          <span class="tl-date">2016.09 — 2020.06</span>
+          <div class="tl-body">
+            <h3>B.Eng.</h3>
+            <p>Nanjing University of Information Science and Technology</p>
+          </div>
+        </li>
+      </ol>
+    </div>
+  </section>
+
+  <!-- NEWS -->
+  <section class="section" id="news">
+    <div class="wrap">
+      <div class="sec-head">
+        <span class="sec-num">03</span>
+        <h2>News</h2>
+      </div>
+      <ol class="news">
+        <li>
+          <span class="news-date">Oct 2026</span>
+          <div class="news-body">
+            <span class="news-tag">Milestone</span>
+            <p>Completed my Ph.D. at NUAA. Now open to postdoctoral positions.</p>
+          </div>
+        </li>
+        <li>
+          <span class="news-date">2026</span>
+          <div class="news-body">
+            <span class="news-tag">Paper</span>
+            <p><em>Toward 6G: Spectrum management in low-altitude aerial information networks</em> published in IEEE Network.</p>
+          </div>
+        </li>
+        <li>
+          <span class="news-date">2026</span>
+          <div class="news-body">
+            <span class="news-tag news-tag-award">Award</span>
+            <p>Best Paper Award at IEEE/CIC ICCC 2026 for IS3A, an integrated soft-sensing and spectrum allocation scheme for UAV spectrum sharing.</p>
+          </div>
+        </li>
+        <li>
+          <span class="news-date">Feb 2026</span>
+          <div class="news-body">
+            <span class="news-tag">Milestone</span>
+            <p>Concluded a one-year visiting Ph.D. at the University of Padova with Prof. Michele Zorzi.</p>
+          </div>
+        </li>
+        <li>
+          <span class="news-date">Sep 2025</span>
+          <div class="news-body">
+            <span class="news-tag">Paper</span>
+            <p><em>A novel PODMAI framework enhanced by user demand prediction</em> published in IEEE Transactions on Communications, vol. 73, no. 9.</p>
+          </div>
+        </li>
+        <li>
+          <span class="news-date">Aug 2025</span>
+          <div class="news-body">
+            <span class="news-tag">Grant</span>
+            <p>Selected for the China Association for Science and Technology Youth Science and Technology Talent Cultivation Program (Ph.D. Student Special Program) as principal investigator.</p>
+          </div>
+        </li>
+        <li>
+          <span class="news-date">Jun 2025</span>
+          <div class="news-body">
+            <span class="news-tag news-tag-patent">Patent</span>
+            <p>Chinese patent CN117880821B granted — a resource optimization method for drone spectrum sharing networks.</p>
+          </div>
+        </li>
+        <li>
+          <span class="news-date">Feb 2025</span>
+          <div class="news-body">
+            <span class="news-tag">Milestone</span>
+            <p>Started a visiting Ph.D. at the University of Padova, Italy.</p>
+          </div>
+        </li>
+        <li>
+          <span class="news-date">Sep 2024</span>
+          <div class="news-body">
+            <span class="news-tag">Paper</span>
+            <p><em>From external interaction to internal inference</em> published in IEEE Transactions on Wireless Communications, vol. 23, no. 9.</p>
+          </div>
+        </li>
+        <li>
+          <span class="news-date">Dec 2023</span>
+          <div class="news-body">
+            <span class="news-tag news-tag-award">Award</span>
+            <p>Best Paper Award at IEEE GLOBECOM 2023 — 17 awards out of 3,200+ submissions, top 0.5%.</p>
+          </div>
+        </li>
+        <li>
+          <span class="news-date">Mar 2023</span>
+          <div class="news-body">
+            <span class="news-tag">Milestone</span>
+            <p>Started my Ph.D. at NUAA, continuing in Prof. Fuhui Zhou's group.</p>
+          </div>
+        </li>
+      </ol>
+    </div>
+  </section>
+
+  <!-- PUBLICATIONS -->
+  <section class="section section-tint" id="publications">
+    <div class="wrap">
+      <div class="sec-head">
+        <span class="sec-num">04</span>
+        <h2>Publications</h2>
+        <a class="sec-link" href="https://scholar.google.com/citations?user=bgr_bJkAAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar ↗</a>
+      </div>
+      <p class="sec-intro">
+        More than 20 papers in internationally renowned communication journals and flagship IEEE
+        conferences. <strong>Rui Ding</strong> is highlighted in bold; 3 Best Paper Awards.
+      </p>
+
+      <div class="filters" role="group" aria-label="Filter publications">
+        <button class="chip is-active" data-filter="all">All <span class="chip-n">30</span></button>
+        <button class="chip" data-filter="journal">Journals <span class="chip-n">19</span></button>
+        <button class="chip" data-filter="conference">Conferences <span class="chip-n">11</span></button>
+        <button class="chip" data-filter="first">First author <span class="chip-n">13</span></button>
+        <button class="chip" data-filter="award">Best paper <span class="chip-n">3</span></button>
+      </div>
+
+      <div class="pub-list" id="pub-list">
+
+        <article class="pub" data-type="journal" data-first="1" data-award="0">
+          <span class="pub-id">J1</span>
+          <div class="pub-body">
+            <h3 class="pub-title">Digital Spectrum Twin for UAV Spectrum Sharing: Agentic Closed-Loop Optimization via Generative Goal-Oriented DRL</h3>
+            <p class="pub-authors"><strong>Rui Ding</strong>, Fuhui Zhou, Chunyu Liu, Dongfang Xu, Qihui Wu, and Chan-Byoung Chae</p>
+            <p class="pub-venue"><span class="stat stat-review">Under review</span></p>
+          </div>
+        </article>
+
+        <article class="pub" data-type="journal" data-first="1" data-award="0">
+          <span class="pub-id">J2</span>
+          <div class="pub-body">
+            <h3 class="pub-title">Optimization-driven DRL for resource allocation under licensed and unlicensed UAV spectrum sharing networks against uncertain jamming</h3>
+            <p class="pub-authors"><strong>Rui Ding</strong>, Fuhui Zhou, Qihui Wu, Kai Kit Wong, and Naofal Al-Dhahir</p>
+            <p class="pub-venue"><em>IEEE Transactions on Mobile Computing</em><span class="sep">·</span><span class="stat">Accepted</span></p>
+          </div>
+        </article>
+
+        <article class="pub" data-type="journal" data-first="1" data-award="0">
+          <span class="pub-id">J3</span>
+          <div class="pub-body">
+            <h3 class="pub-title">Toward 6G: Spectrum management in low-altitude aerial information networks</h3>
+            <p class="pub-authors"><strong>Rui Ding</strong>, Fuhui Zhou, Marco Giordani, Qihui Wu, and Michele Zorzi</p>
+            <p class="pub-venue"><em>IEEE Network</em><span class="sep">·</span><span class="stat">2026</span></p>
+          </div>
+        </article>
+
+        <article class="pub" data-type="journal" data-first="0" data-award="0">
+          <span class="pub-id">J4</span>
+          <div class="pub-body">
+            <h3 class="pub-title">Lightweight neural network with fixed classifier for enhanced drone RF signal recognition</h3>
+            <p class="pub-authors">Feifei Zhu, Fuhui Zhou, <strong>Rui Ding</strong>, Qihui Wu, Kai-Kit Wong, and Chan-Byoung Chae</p>
+            <p class="pub-venue"><em>IEEE Transactions on Cognitive Communications and Networking</em><span class="sep">·</span><span class="stat">vol. 12, pp. 1905–1917, 2026</span></p>
+          </div>
+        </article>
+
+        <article class="pub" data-type="journal" data-first="1" data-award="0">
+          <span class="pub-id">J5</span>
+          <div class="pub-body">
+            <h3 class="pub-title">A novel PODMAI framework enhanced by user demand prediction for resource allocation in spectrum sharing UAV networks</h3>
+            <p class="pub-authors"><strong>Rui Ding</strong>, Fuhui Zhou, Qihui Wu, Derrick Wing Kwan Ng, Kai Kit Wong, and Naofal Al-Dhahir</p>
+            <p class="pub-venue"><em>IEEE Transactions on Communications</em><span class="sep">·</span><span class="stat">vol. 73, no. 9, pp. 8243–8259, Sept. 2025</span></p>
+          </div>
+        </article>
+
+        <article class="pub" data-type="journal" data-first="0" data-award="0">
+          <span class="pub-id">J6</span>
+          <div class="pub-body">
+            <h3 class="pub-title">UAV cognitive semantic communications enabled by knowledge graph for robust object detection</h3>
+            <p class="pub-authors">Xi Song, Fuhui Zhou, <strong>Rui Ding</strong>, Zhibo Qu, Yihao Li, and Qihui Wu</p>
+            <p class="pub-venue"><em>IEEE Transactions on Communications</em><span class="sep">·</span><span class="stat">vol. 73, no. 8, pp. 6052–6067, Aug. 2025</span></p>
+          </div>
+        </article>
+
+        <article class="pub" data-type="journal" data-first="0" data-award="0">
+          <span class="pub-id">J7</span>
+          <div class="pub-body">
+            <h3 class="pub-title">An open-set supervised anomaly detection method for unauthorized broadcasting identification</h3>
+            <p class="pub-authors">Bowen Zhang, Fuhui Zhou, <strong>Rui Ding</strong>, Ming Xu, Yuan Yang, and Qihui Wu</p>
+            <p class="pub-venue"><em>IEEE Internet of Things Journal</em><span class="sep">·</span><span class="stat">2025</span></p>
+          </div>
+        </article>
+
+        <article class="pub" data-type="journal" data-first="1" data-award="0">
+          <span class="pub-id">J8</span>
+          <div class="pub-body">
+            <h3 class="pub-title">Secure and robust resource allocation for UAV-assisted anti-jamming spectrum sharing under uncertain jamming in airborne maneuvering networks</h3>
+            <p class="pub-authors"><strong>Rui Ding</strong>, Haotian Quan, Zhijie Zeng, and Fuhui Zhou</p>
+            <p class="pub-venue"><em>Chinese Journal of Aeronautics</em><span class="sep">·</span><span class="stat">2025</span></p>
+          </div>
+        </article>
+
+        <article class="pub" data-type="journal" data-first="1" data-award="0">
+          <span class="pub-id">J9</span>
+          <div class="pub-body">
+            <h3 class="pub-title">Adversarial embodied intelligent resource allocation schemes for anti-jamming low-altitude spectrum sharing UAV networks</h3>
+            <p class="pub-authors"><strong>Rui Ding</strong>, Xiaopeng Huang, Zhijie Zeng, Fuhui Zhou, and Qihui Wu</p>
+            <p class="pub-venue"><em>IEEE Journal of Selected Topics in Signal Processing</em><span class="sep">·</span><span class="stat">Accepted</span></p>
+          </div>
+        </article>
+
+        <article class="pub" data-type="journal" data-first="0" data-award="0">
+          <span class="pub-id">J10</span>
+          <div class="pub-body">
+            <h3 class="pub-title">Dynamic spectrum aggregation and resource allocation for embodied enhanced cognitive UAV networks using hybrid action space DRL</h3>
+            <p class="pub-authors">Yihe Diao, <strong>Rui Ding</strong>, Zhijie Zeng, Fuhui Zhou, and Qihui Wu</p>
+            <p class="pub-venue"><em>IEEE Transactions on Cognitive Communications and Networking</em><span class="sep">·</span><span class="stat">Accepted</span></p>
+            <p class="pub-tags"><span class="tag">Corresponding author</span></p>
+          </div>
+        </article>
+
+        <article class="pub" data-type="journal" data-first="0" data-award="0">
+          <span class="pub-id">J11</span>
+          <div class="pub-body">
+            <h3 class="pub-title">A knowledge-enhanced foundation model for wireless signal recognition</h3>
+            <p class="pub-authors">Chunyu Liu, Hao Zhang, <strong>Rui Ding</strong>, Wei Wu, Fuhui Zhou, and Qihui Wu</p>
+            <p class="pub-venue"><em>IEEE Journal of Selected Topics in Signal Processing</em><span class="sep">·</span><span class="stat">Accepted</span></p>
+          </div>
+        </article>
+
+        <article class="pub" data-type="journal" data-first="0" data-award="0">
+          <span class="pub-id">J12</span>
+          <div class="pub-body">
+            <h3 class="pub-title">A novel digital cousin based intelligent resource allocation scheme for secure low-altitude UAV spectrum sharing in AMN</h3>
+            <p class="pub-authors">Zhijie Zeng, <strong>Rui Ding</strong>, Yuhang Wu, Yihe Diao, Fuhui Zhou, and Qihui Wu</p>
+            <p class="pub-venue"><em>Chinese Journal of Aeronautics</em><span class="sep">·</span><span class="stat">Accepted</span></p>
+          </div>
+        </article>
+
+        <article class="pub" data-type="journal" data-first="0" data-award="0">
+          <span class="pub-id">J13</span>
+          <div class="pub-body">
+            <h3 class="pub-title">Enhancing rogue-emitter rejection in open-set specific emitter identification with out-of-distribution signals</h3>
+            <p class="pub-authors">Bowen Zhang, Fuhui Zhou, <strong>Rui Ding</strong>, Ming Xu, Chengda She, and Qihui Wu</p>
+            <p class="pub-venue"><em>IEEE Transactions on Consumer Electronics</em><span class="sep">·</span><span class="stat">Accepted</span></p>
+          </div>
+        </article>
+
+        <article class="pub" data-type="journal" data-first="0" data-award="0">
+          <span class="pub-id">J14</span>
+          <div class="pub-body">
+            <h3 class="pub-title">Embodied intelligent spectrum management: A new paradigm for dynamic spectrum access</h3>
+            <p class="pub-authors">Yihe Diao, Yuhang Wu, Hongtao Liang, Ming Xu, <strong>Rui Ding</strong>, Fuhui Zhou, Qihui Wu, and Jun Zhang</p>
+            <p class="pub-venue"><em>IEEE Wireless Communications</em><span class="sep">·</span><span class="stat stat-review">Minor revision</span><span class="sep">·</span><span class="stat">arXiv:2602.13245</span></p>
+          </div>
+        </article>
+
+        <article class="pub" data-type="journal" data-first="1" data-award="0">
+          <span class="pub-id">J15</span>
+          <div class="pub-body">
+            <h3 class="pub-title">From external interaction to internal inference: An intelligent learning framework for spectrum sharing and UAV trajectory optimization</h3>
+            <p class="pub-authors"><strong>Rui Ding</strong>, Fuhui Zhou, Qihui Wu, and Derrick Wing Kwan Ng</p>
+            <p class="pub-venue"><em>IEEE Transactions on Wireless Communications</em><span class="sep">·</span><span class="stat">vol. 23, no. 9, pp. 12099–12114, Sept. 2024</span></p>
+          </div>
+        </article>
+
+        <article class="pub" data-type="journal" data-first="0" data-award="0">
+          <span class="pub-id">J16</span>
+          <div class="pub-body">
+            <h3 class="pub-title">Temporal enhanced multimodal graph neural networks for fake news detection</h3>
+            <p class="pub-authors">Zhibo Qu, Fuhui Zhou, Xi Song, <strong>Rui Ding</strong>, Lu Yuan, and Qihui Wu</p>
+            <p class="pub-venue"><em>IEEE Transactions on Computational Social Systems</em><span class="sep">·</span><span class="stat">vol. 11, no. 6, pp. 7286–7298, Dec. 2024</span></p>
+          </div>
+        </article>
+
+        <article class="pub" data-type="journal" data-first="1" data-award="0">
+          <span class="pub-id">J17</span>
+          <div class="pub-body">
+            <h3 class="pub-title">Data and knowledge dual-driven automatic modulation classification for 6G wireless communications</h3>
+            <p class="pub-authors"><strong>Rui Ding</strong>, Fuhui Zhou, Qihui Wu, Chao Dong, Zhu Han, and O. A. Dobre</p>
+            <p class="pub-venue"><em>IEEE Transactions on Wireless Communications</em><span class="sep">·</span><span class="stat">vol. 23, no. 5, pp. 4228–4242, May 2024</span></p>
+          </div>
+        </article>
+
+        <article class="pub" data-type="journal" data-first="0" data-award="0">
+          <span class="pub-id">J18</span>
+          <div class="pub-body">
+            <h3 class="pub-title">Social-enhanced explainable recommendation with knowledge graph</h3>
+            <p class="pub-authors">Chunyu Liu, Wei Wu, Siyu Wu, Lu Yuan, <strong>Rui Ding</strong>, and Fuhui Zhou</p>
+            <p class="pub-venue"><em>IEEE Transactions on Knowledge and Data Engineering</em><span class="sep">·</span><span class="stat">vol. 36, no. 2, pp. 840–853, Feb. 2024</span></p>
+          </div>
+        </article>
+
+        <article class="pub" data-type="journal" data-first="1" data-award="0">
+          <span class="pub-id">J19</span>
+          <div class="pub-body">
+            <h3 class="pub-title">RFML-driven spectrum prediction: A novel model-enabled autoregressive network</h3>
+            <p class="pub-authors"><strong>Rui Ding</strong>, Ming Xu, Fuhui Zhou, Qihui Wu, and Rose Qingyang Hu</p>
+            <p class="pub-venue"><em>IEEE Internet of Things Journal</em><span class="sep">·</span><span class="stat">vol. 9, no. 18, pp. 18164–18165, Sept. 2022</span></p>
+          </div>
+        </article>
+
+        <article class="pub" data-type="conference" data-first="0" data-award="1">
+          <span class="pub-id">C1</span>
+          <div class="pub-body">
+            <h3 class="pub-title">IS3A: An integrated soft-sensing and spectrum allocation scheme in UAV spectrum sharing network</h3>
+            <p class="pub-authors">Hang Yang, <strong>Rui Ding</strong>, Sixiang Chen, Fuhui Zhou, and Qihui Wu</p>
+            <p class="pub-venue"><em>IEEE/CIC International Conference on Communications in China (ICCC) 2026</em><span class="sep">·</span><span class="stat">Accepted</span></p>
+            <p class="pub-tags"><span class="tag tag-award">Best paper award</span></p>
+          </div>
+        </article>
+
+        <article class="pub" data-type="conference" data-first="1" data-award="0">
+          <span class="pub-id">C2</span>
+          <div class="pub-body">
+            <h3 class="pub-title">An adversarial embodied intelligent resource allocation scheme for anti-jamming spectrum sharing UAV networks</h3>
+            <p class="pub-authors"><strong>Rui Ding</strong>, Zhijie Zeng, Haotian Quan, Yuhang Wu, Marco Giordani, Qihui Wu, and Michele Zorzi</p>
+            <p class="pub-venue"><em>17th International Conference on Wireless Communications and Signal Processing (WCSP)</em><span class="sep">·</span><span class="stat">Chongqing, China, 2025</span></p>
+          </div>
+        </article>
+
+        <article class="pub" data-type="conference" data-first="1" data-award="0">
+          <span class="pub-id">C3</span>
+          <div class="pub-body">
+            <h3 class="pub-title">Joint resource optimization over licensed and unlicensed spectrum in spectrum sharing UAV networks against jamming attacks</h3>
+            <p class="pub-authors"><strong>Rui Ding</strong>, Fuhui Zhou, Yuhang Wu, Qihui Wu, and Tony Q. S. Quek</p>
+            <p class="pub-venue"><em>IEEE International Conference on Communications (ICC) 2025</em><span class="sep">·</span><span class="stat">Montreal, Canada, pp. 2279–2284</span></p>
+          </div>
+        </article>
+
+        <article class="pub" data-type="conference" data-first="0" data-award="0">
+          <span class="pub-id">C4</span>
+          <div class="pub-body">
+            <h3 class="pub-title">A differentiable optimization enhanced Actor-Critic framework for resource allocation in spectrum sharing UAV networks</h3>
+            <p class="pub-authors">Yihe Diao, <strong>Rui Ding</strong>, Zhijie Zeng, Dongfang Xu, Fuhui Zhou, and Qihui Wu</p>
+            <p class="pub-venue"><em>IEEE/CIC International Conference on Communications in China (ICCC)</em><span class="sep">·</span><span class="stat">Accepted</span></p>
+            <p class="pub-tags"><span class="tag">Corresponding author</span></p>
+          </div>
+        </article>
+
+        <article class="pub" data-type="conference" data-first="0" data-award="0">
+          <span class="pub-id">C5</span>
+          <div class="pub-body">
+            <h3 class="pub-title">A novel spatial spectrum sensing method based on Bartlett spatial spectrum and Kalman filtering for dynamic cognitive radio systems</h3>
+            <p class="pub-authors">Sixiang Chen, Fuhui Zhou, Hang Yang, <strong>Rui Ding</strong>, and Qihui Wu</p>
+            <p class="pub-venue"><em>IEEE/CIC International Conference on Communications in China (ICCC)</em><span class="sep">·</span><span class="stat">Accepted</span></p>
+            <p class="pub-tags"><span class="tag">Corresponding author</span></p>
+          </div>
+        </article>
+
+        <article class="pub" data-type="conference" data-first="0" data-award="0">
+          <span class="pub-id">C6</span>
+          <div class="pub-body">
+            <h3 class="pub-title">Multidimensional QoI aware optimization for interactive holographic communication</h3>
+            <p class="pub-authors">Xueming Pan, Lu Yuan, <strong>Rui Ding</strong>, Hao Zhou, Fuhui Zhou, and Qihui Wu</p>
+            <p class="pub-venue"><em>IEEE Global Communications Conference (GLOBECOM) 2026</em><span class="sep">·</span><span class="stat stat-review">Submitted</span></p>
+          </div>
+        </article>
+
+        <article class="pub" data-type="conference" data-first="0" data-award="0">
+          <span class="pub-id">C7</span>
+          <div class="pub-body">
+            <h3 class="pub-title">Data-and-semantic dual-driven spectrum map construction for 6G spectrum management</h3>
+            <p class="pub-authors">Jiayu Liu, Fuhui Zhou, Xiaodong Liu, <strong>Rui Ding</strong>, Lu Yuan, and Qihui Wu</p>
+            <p class="pub-venue"><em>IEEE Global Communications Conference (GLOBECOM) 2024</em><span class="sep">·</span><span class="stat">Cape Town, South Africa, pp. 139–144</span></p>
+          </div>
+        </article>
+
+        <article class="pub" data-type="conference" data-first="1" data-award="1">
+          <span class="pub-id">C8</span>
+          <div class="pub-body">
+            <h3 class="pub-title">Novel online-offline MA2C-DDPG for efficient spectrum allocation and trajectory optimization in dynamic spectrum sharing UAV networks</h3>
+            <p class="pub-authors"><strong>Rui Ding</strong>, Fuhui Zhou, Yubeng Qu, Chao Dong, Qihui Wu, and Tony Q. S. Quek</p>
+            <p class="pub-venue"><em>IEEE/CIC International Conference on Communications in China (ICCC) 2023</em><span class="sep">·</span><span class="stat">pp. 1–6</span></p>
+            <p class="pub-tags"><span class="tag tag-award">Best paper award</span></p>
+          </div>
+        </article>
+
+        <article class="pub" data-type="conference" data-first="0" data-award="1">
+          <span class="pub-id">C9</span>
+          <div class="pub-body">
+            <h3 class="pub-title">A partially observable deep multi-agent active inference framework for resource allocation in 6G and beyond wireless communications networks</h3>
+            <p class="pub-authors">Fuhui Zhou, <strong>Rui Ding</strong>, Qihui Wu, Derrick Wing Kwan Ng, Kai Kit Wong, and Naofal Al-Dhahir</p>
+            <p class="pub-venue"><em>IEEE Global Communications Conference (GLOBECOM) 2023</em><span class="sep">·</span><span class="stat">pp. 2662–2667</span></p>
+            <p class="pub-tags"><span class="tag tag-award">Best paper award</span><span class="tag">Corresponding author</span></p>
+          </div>
+        </article>
+
+        <article class="pub" data-type="conference" data-first="0" data-award="0">
+          <span class="pub-id">C10</span>
+          <div class="pub-body">
+            <h3 class="pub-title">An intelligent RFFI scheme based on multi-scale learning and attention mechanism</h3>
+            <p class="pub-authors">Ming Xu, <strong>Rui Ding</strong>, Lu Yuan, and Fuhui Zhou</p>
+            <p class="pub-venue"><em>International Conference on Ubiquitous Communication (Ucom) 2023</em><span class="sep">·</span><span class="stat">Xi'an, China, pp. 356–360</span></p>
+            <p class="pub-tags"><span class="tag">Excellent graduate student award</span></p>
+          </div>
+        </article>
+
+        <article class="pub" data-type="conference" data-first="1" data-award="0">
+          <span class="pub-id">C11</span>
+          <div class="pub-body">
+            <h3 class="pub-title">Data-and-knowledge dual-driven automatic modulation recognition for wireless communication networks</h3>
+            <p class="pub-authors"><strong>Rui Ding</strong>, Hao Zhang, Fuhui Zhou, Qihui Wu, and Zhu Han</p>
+            <p class="pub-venue"><em>IEEE International Conference on Communications (ICC) 2022</em><span class="sep">·</span><span class="stat">Seoul, Korea, pp. 1962–1967</span></p>
+          </div>
+        </article>
+
+      </div>
+      <p class="empty-note" id="pub-empty" hidden>No papers in this category.</p>
+    </div>
+  </section>
+
+  <!-- PROJECTS -->
+  <section class="section" id="projects">
+    <div class="wrap">
+      <div class="sec-head">
+        <span class="sec-num">05</span>
+        <h2>Projects</h2>
+      </div>
+      <p class="sec-intro">
+        Five funded projects led as principal investigator, plus four national and industry
+        projects as a main participant.
+      </p>
+      <div class="cards">
+        <article class="card">
+          <div class="card-top">
+            <span class="card-role role-pi">Principal investigator</span>
+            <span class="card-date">2025.02 — 2026.02</span>
+          </div>
+          <h3>Integrated data and mechanistic model based computing methods for resource allocation in 6G wireless communications</h3>
+          <p class="card-meta">National High-Level University Graduate Scholarship Program · Chinese National Natural Science Foundation</p>
+        </article>
+        <article class="card">
+          <div class="card-top">
+            <span class="card-role role-pi">Principal investigator</span>
+            <span class="card-date">2024.09 — 2026.09</span>
+          </div>
+          <h3>Intelligent decision-making methods for air-ground spectrum-sharing networks</h3>
+          <p class="card-meta">NUAA Doctoral Dissertation Innovation and Excellence Funding</p>
+        </article>
+        <article class="card">
+          <div class="card-top">
+            <span class="card-role role-pi">Principal investigator</span>
+            <span class="card-date">2025.08 — 2026.09</span>
+          </div>
+          <h3>Youth science and technology talent cultivation: Ph.D. student special program</h3>
+          <p class="card-meta">China Association for Science and Technology</p>
+        </article>
+        <article class="card">
+          <div class="card-top">
+            <span class="card-role role-pi">Principal investigator</span>
+            <span class="card-date">2024.09 — 2026.09</span>
+          </div>
+          <h3>Mechanism-and-data fusion computational methods in electromagnetic space</h3>
+          <p class="card-meta">Jiangsu Province Graduate Research and Practice Innovation Program · Jiangsu Provincial Department of Education</p>
+        </article>
+        <article class="card">
+          <div class="card-top">
+            <span class="card-role role-pi">Principal investigator</span>
+            <span class="card-date">2022.12 — 2023.12</span>
+          </div>
+          <h3>Advanced technologies for deep spectrum cognition in 6G communication networks</h3>
+          <p class="card-meta">NUAA Innovation Program</p>
+        </article>
+        <article class="card">
+          <div class="card-top">
+            <span class="card-role">Main participant</span>
+            <span class="card-date">2025.08 — 2027.08</span>
+          </div>
+          <h3>Key technologies for intelligent and simplified operation of hierarchical cross-domain power communication networks</h3>
+          <p class="card-meta">State Grid Jiangsu Electric Power Co., Ltd. Science and Technology Project</p>
+        </article>
+        <article class="card">
+          <div class="card-top">
+            <span class="card-role">Main participant</span>
+            <span class="card-date">2024.12 — 2027.12</span>
+          </div>
+          <h3>Key technologies for holographic communication based on multimodal networks</h3>
+          <p class="card-meta">Ministry of Science and Technology of China</p>
+        </article>
+        <article class="card">
+          <div class="card-top">
+            <span class="card-role">Main participant</span>
+            <span class="card-date">2024.12 — 2027.12</span>
+          </div>
+          <h3>Data-mechanism driven modeling and decision-making theories for future communications</h3>
+          <p class="card-meta">Jiangsu Province</p>
+        </article>
+        <article class="card">
+          <div class="card-top">
+            <span class="card-role">Main participant</span>
+            <span class="card-date">2022.12 — 2023.12</span>
+          </div>
+          <h3>Modeling and optimization simulation for full-spectrum sensing</h3>
+          <p class="card-meta">Guangzhou Haige Communications Group Co., Ltd.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- AWARDS -->
+  <section class="section section-tint" id="awards">
+    <div class="wrap">
+      <div class="sec-head">
+        <span class="sec-num">06</span>
+        <h2>Awards &amp; Honors</h2>
+      </div>
+      <ul class="rows">
+        <li>
+          <span class="row-key">2026</span>
+          <span class="row-main">Best Paper Award, IEEE/CIC ICCC 2026</span>
+        </li>
+        <li>
+          <span class="row-key">2025</span>
+          <span class="row-main">National Scholarship for Graduate Students</span>
+        </li>
+        <li>
+          <span class="row-key">2024</span>
+          <span class="row-main">BYD Special Scholarship</span>
+        </li>
+        <li>
+          <span class="row-key">2023</span>
+          <span class="row-main">Best Paper Award, IEEE GLOBECOM 2023 <span class="row-note">17 awards out of 3,200+ submissions, top 0.5%</span></span>
+        </li>
+        <li>
+          <span class="row-key">2023</span>
+          <span class="row-main">Best Paper Award, IEEE/CIC ICCC 2023 <span class="row-note">top 2%</span></span>
+        </li>
+        <li>
+          <span class="row-key">2023</span>
+          <span class="row-main">Excellent Graduate Student Award, International Conference on Ubiquitous Communication (Ucom)</span>
+        </li>
+        <li>
+          <span class="row-key">2023</span>
+          <span class="row-main">Outstanding Master's Thesis Award, Chinese Institute of Electronics</span>
+        </li>
+        <li>
+          <span class="row-key">2022</span>
+          <span class="row-main">National Scholarship for Graduate Students</span>
+        </li>
+        <li>
+          <span class="row-key">—</span>
+          <span class="row-main">"Optics Valley of China Huawei Cup", 19th China Post-Graduate Mathematical Contest in Modeling</span>
+        </li>
+        <li>
+          <span class="row-key">—</span>
+          <span class="row-main">7th National College Student Bio-IoT Technology and Application Competition</span>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- PATENTS -->
+  <section class="section" id="patents">
+    <div class="wrap">
+      <div class="sec-head">
+        <span class="sec-num">07</span>
+        <h2>Patents</h2>
+      </div>
+      <ul class="rows rows-patent">
+        <li>
+          <span class="row-key">2025.06.03</span>
+          <span class="row-main">A resource optimization method for drone spectrum sharing networks <span class="row-id">CN117880821B</span></span>
+        </li>
+        <li>
+          <span class="row-key">2024.12.31</span>
+          <span class="row-main">Intelligent resource allocation method for 6G based on partially observable active reasoning <span class="row-id">CN117241403B</span></span>
+        </li>
+        <li>
+          <span class="row-key">2023.11.10</span>
+          <span class="row-main">A data-knowledge dual-driven radio frequency fingerprint recognition method and system <span class="row-id">CN116112932B</span></span>
+        </li>
+        <li>
+          <span class="row-key">2023.11.10</span>
+          <span class="row-main">A method for airborne target intent recognition based on radiation source knowledge graphs <span class="row-id">CN115757828B</span></span>
+        </li>
+        <li>
+          <span class="row-key">2023.07.11</span>
+          <span class="row-main">Intelligent data-and-knowledge-driven method for modulation recognition <span class="row-id">US11700156B1</span></span>
+        </li>
+        <li>
+          <span class="row-key">2022.08.30</span>
+          <span class="row-main">A spectrum prediction method driven by radio frequency machine learning models <span class="row-id">CN113840297B</span></span>
+        </li>
+        <li>
+          <span class="row-key">2022.05.10</span>
+          <span class="row-main">A data-knowledge dual-driven modulation intelligent recognition method <span class="row-id">CN114157539B</span></span>
+        </li>
+        <li>
+          <span class="row-key">2021.09.20</span>
+          <span class="row-main">Full-spectrum awareness system <span class="row-id">Software copyright</span></span>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- SERVICE -->
+  <section class="section section-tint" id="service">
+    <div class="wrap">
+      <div class="sec-head">
+        <span class="sec-num">08</span>
+        <h2>Service &amp; Talks</h2>
+      </div>
+      <div class="two-col">
+        <div>
+          <h3 class="mini-head">Reviewer</h3>
+          <p class="prose-sm">
+            Active reviewer for more than five journals and flagship conferences.
+          </p>
+          <ul class="venue-chips">
+            <li>IEEE TWC</li>
+            <li>IEEE TMC</li>
+            <li>IEEE TCCN</li>
+            <li>IEEE IoT Journal</li>
+            <li>IEEE ICC</li>
+            <li>IEEE GLOBECOM</li>
+            <li>WCSP</li>
+          </ul>
+        </div>
+        <div>
+          <h3 class="mini-head">Invited talks</h3>
+          <p class="prose-sm">
+            Invited speaker at the 3rd International Conference on Frontiers of Artificial
+            Intelligence and Machine Learning (FAIML 2024).
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="section" id="contact">
+    <div class="wrap">
+      <div class="sec-head">
+        <span class="sec-num">09</span>
+        <h2>Contact</h2>
+      </div>
+      <div class="contact">
+        <div class="contact-main">
+          <p class="contact-lead">I am looking for postdoctoral positions starting in 2027.</p>
+          <p class="prose-sm">
+            The fastest way to reach me is email. I am happy to discuss spectrum sharing, UAV
+            networks, learning-based optimization, or a collaboration.
+          </p>
+          <div class="contact-links">
+            <a class="btn btn-solid" href="mailto:rui.ding@nuaa.edu.cn">rui.ding@nuaa.edu.cn</a>
+            <button class="btn" id="copy-mail" type="button" data-mail="rui.ding@nuaa.edu.cn">Copy address</button>
+            <a class="btn" href="assets/Rui_CV.pdf" target="_blank" rel="noopener">CV ↓</a>
+          </div>
+        </div>
+        <div class="contact-side">
+          <h3 class="mini-head">Affiliation</h3>
+          <p class="prose-sm">
+            College of Electronic and Information Engineering<br>
+            Nanjing University of Aeronautics and Astronautics<br>
+            Nanjing, China
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="foot">
+  <div class="wrap foot-inner">
+    <p>© <span id="year">2026</span> Rui Ding</p>
+    <p class="foot-meta">Last updated November 2026 · Built by hand</p>
+  </div>
+</footer>
+
+<script src="assets/main.js"></script>
+</body>
+</html>
